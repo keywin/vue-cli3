@@ -9,7 +9,7 @@ const homeRouter = [
     path: "/home",
     name: "home",
     component: home,
-    redirect: "/home/index",
+    redirect: "home/index",
     children: [
       {
         path: "index",

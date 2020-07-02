@@ -1,5 +1,9 @@
 <template>
+<div>
+  123456
   <router-view/>
+</div>
+  
 </template>
 
 <script>

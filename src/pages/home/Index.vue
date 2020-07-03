@@ -1,7 +1,7 @@
 <template>
 <div>
-  123456
-  <router-view/>
+  这里是首页
+  <!-- <router-view/> -->
 </div>
   
 </template>

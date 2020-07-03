@@ -10,6 +10,9 @@
   "dependencies": {
     "ant-design-vue": "^1.6.2",
     "core-js": "^3.6.5",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.0",
+    "sass-resources-loader": "^2.0.3",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4"
   },
